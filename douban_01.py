@@ -32,6 +32,7 @@ def parse_html(html):
         print(content)
         print(image)
         print('*'*20)
+        #sssssssssssssdsfsdfasdd
 
 def download(img):
     filename = 'img'
